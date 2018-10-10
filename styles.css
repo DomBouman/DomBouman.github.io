@@ -1,4 +1,8 @@
 li {
   display: inline;
-  
+  text-decoration: none;
+}
+ul {
+  background-color: black;
+
 }
