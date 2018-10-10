@@ -6,6 +6,7 @@ ul {
 
 li {
     float: left;
+    font-size: 25px;
 }
 
 a li {
