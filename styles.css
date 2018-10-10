@@ -1,7 +1,17 @@
-li {
-  display: inline;
-  text-decoration: none;
-}
 ul {
-  background-color: black;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+a li {
+    color: white;
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
 }
