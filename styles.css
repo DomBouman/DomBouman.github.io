@@ -1,13 +1,39 @@
 h1 {
-  font-size: 60px;
+  font-family: Apple Chancery, cursive;
+  font-size: 150px;
+  margin-top: -10px;
   text-align: center;
 }
+p {
+  font-family: Apple Chancery, cursive;
+  font-size: 75px;
+  margin-top: -125px;
+  text-align: center;
+}
+ul {
+    background-color: gray;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -8px;
+    padding: inherit;
+    text-align: center;
+}
 a {
-  background-color: grey;
+  border-radius: 10px;
   color: white;
-  display: inline;
   font-size: 25px;
+  padding: 10px;
+  text-decoration: none;
 }
 a:hover {
     background-color: #111;
+}
+li {
+  display: inline-block;
+  font-family: Luminari, fantasy;
+  font-size: 50px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+  margin-right: 50px;
+
 }
