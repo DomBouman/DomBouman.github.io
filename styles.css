@@ -52,7 +52,7 @@ h1 {
   text-align: center;
 }
 .image{
-  display: inline-block;
+display: inline-block;
   width: 100%;
 }
 
@@ -63,4 +63,28 @@ width: 30%;
 .right {
   float: right;
   margin-right: 25%;
+  text-align: center;
+  width: 50%;
+}
+.bowling {
+  font-size: 20px;
+  text-align: center;
+}
+.bowler {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.back {
+  background: linear-gradient(to top, grey, white);
+  height: inherit;
+}
+.back1 {
+  background: linear-gradient(to top, grey, white);
+  height: inherit;
+}
+.goals {
+  font-size: 20px;
+  text-align: center;
 }
