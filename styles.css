@@ -58,6 +58,12 @@ display: inline-block;
 
 .border {
 display: inline-block;
+margin-left: 8%;
+width: 30%;
+}
+.border1 {
+display: inline-block;
+margin-left: 15%;
 width: 30%;
 }
 .right {
@@ -82,9 +88,13 @@ width: 30%;
 }
 .back1 {
   background: linear-gradient(to top, grey, white);
-  height: inherit;
+  height: 100%;
 }
 .goals {
   font-size: 20px;
   text-align: center;
+}
+section {
+  display: inline;
+  padding: 15px;
 }
