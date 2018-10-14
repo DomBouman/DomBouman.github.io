@@ -98,3 +98,20 @@ section {
   display: inline;
   padding: 15px;
 }
+label {
+  display: inline;
+  font-size: 25px;
+}
+footer {
+  margin-top: 50%;
+}
+.contactme {
+  font-weight: bold;
+  text-align: center;
+}
+.home {
+  height: inherit;
+}
+.contactpage {
+  height: inherit;
+}
