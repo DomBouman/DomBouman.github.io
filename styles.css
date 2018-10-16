@@ -88,7 +88,7 @@ width: 30%;
 }
 .back1 {
   background: linear-gradient(to top, grey, white);
-  height: 100%;
+  height: inherit;
 }
 .goals {
   font-size: 20px;
